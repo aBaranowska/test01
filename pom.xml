@@ -17,7 +17,8 @@
 	<properties>
 		<maven.test.failure.ignore>true</maven.test.failure.ignore>
 		<spring.framework.version>4.2.5.RELEASE</spring.framework.version>
-	</properties>	<dependencies>
+	</properties>
+	<dependencies>
 		<dependency>
 			<groupId>junit</groupId>
 			<artifactId>junit</artifactId>
@@ -52,7 +53,7 @@
 					<target>1.5</target>
 				</configuration>
 			</plugin>
- 
+
 		</plugins>
-	</build> 
+	</build>
 </project>
